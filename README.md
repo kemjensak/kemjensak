@@ -42,8 +42,6 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge&logo=gazebo&logoColor=white)
-![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ## ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -213,7 +211,7 @@
 
 </div>
 
-<details>
+<details open>
 <summary><b>🤖 Robotics & Engineering</b></summary>
 <br>
 
@@ -224,7 +222,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary><b>💻 Software & Design</b></summary>
 <br>
 
@@ -235,7 +233,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary><b>🔧 Technical & Safety</b></summary>
 <br>
 
