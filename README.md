@@ -5,8 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Robotics+Engineer;ROS+%26+C%2B%2B+%26+Python+Developer;Mechanical+Engineering+Background;Always+Learning+New+Things!" alt="Typing SVG" />
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jinseok.kim970@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
+
 
 </div>
 
@@ -43,6 +42,8 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge&logo=gazebo&logoColor=white)
+![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ## ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -57,7 +58,7 @@
 
 ## 🔍 Detailed Experience
 
-<details>
+<details open>
 <summary><b>🤖 ROS & Programming</b></summary>
 <br>
 
@@ -67,7 +68,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary><b>🎨 CAD & Design</b></summary>
 <br>
 
@@ -76,7 +77,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary><b>🖥️ Infrastructure & DevOps</b></summary>
 <br>
 
