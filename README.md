@@ -2,76 +2,8 @@
   
 # 👋 Hello! I'm Jinseok Kim
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=tr---
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Robotics+Engineer;ROS+%26+C%2B%2B+%26+Python+Developer;Mechanical+Engineering+Background;Always+Learning+New+Things!" alt="Typing SVG" />
 
-<div align="center">
-
-## 🏆 Honors and Awards
-
-</div>
-
-<table align="center">
-<tr>
-<th>🏅 Award</th>
-<th>📅 Date</th>
-<th>🏛️ Organization</th>
-</tr>
-<tr>
-<td><b>🥇 Best Award</b><br>KDT Final Project</td>
-<td>Aug 22, 2025</td>
-<td>AddInEdu</td>
-</tr>
-<tr>
-<td><b>🎖️ President's Award</b><br>WCRC Autonomous Driving Division</td>
-<td>Aug 18, 2025</td>
-<td>Korea Robotics Education Contents Association</td>
-</tr>
-<tr>
-<td><b>🏆 Academic Award</b></td>
-<td>Nov 9, 2023</td>
-<td>The Korean Society of Automotive Safety</td>
-</tr>
-<tr>
-<td><b>🥈 Excellence Award</b><br>Hyundai Robotics Challenge 2022</td>
-<td>Nov 13, 2022</td>
-<td>Hyundai Motor / Hyundai NGV</td>
-</tr>
-<tr>
-<td><b>📝 Best Paper Award</b></td>
-<td>Apr 28, 2022</td>
-<td>The Korean Society of Mechanical Engineers (KSME)</td>
-</tr>
-<tr>
-<td><b>🥈 Soongsil Engineering Award (Silver Prize)</b></td>
-<td>Dec 15, 2021</td>
-<td>Soongsil University</td>
-</tr>
-<tr>
-<td><b>🥈 Excellence Award</b><br>Creative Autonomous Vehicle Technology Competition</td>
-<td>Oct 4, 2021</td>
-<td>The Korean Society of Automotive Safety</td>
-</tr>
-<tr>
-<td><b>🏅 Finalist</b><br>HANIUM ICT Competition</td>
-<td>Dec 4, 2020</td>
-<td>Federation of Korean Information Industries</td>
-</tr>
-<tr>
-<td><b>🥈 Hyeongnam Science Award (Silver Prize)</b></td>
-<td>Nov 18, 2020</td>
-<td>Soongsil University</td>
-</tr>
-<tr>
-<td><b>🏅 Encouragement Award</b><br>Capstone Design Competition</td>
-<td>Sep 16, 2020</td>
-<td>Soongsil University</td>
-</tr>
-</table>rue&width=435&lines=Robotics+Engineer;ROS+%26+C%2B%2B+%26+Python+Developer;Mechanical+Engineering+Background;Always+Learning+New+Things!" alt="Typing SVG" />
-
-</div>
-
-<div align="center">
-  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jinseok.kim970@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
@@ -83,13 +15,12 @@
 # 📚 Education
 
 ### Master of Science in Mechanical Engineering
-
 *Mar 2022 - Aug 2024, Soongsil Univ., Seoul, Korea*
 
-
 ### Bachelor of Science in Mechanical Engineering
-
 *Mar 2016 - Feb 2022, Soongsil Univ., Seoul, Korea*
+
+---
 
 # 🛠 Skills & Technologies
 
@@ -124,7 +55,7 @@
 
 ---
 
-## � Detailed Experience
+## 🔍 Detailed Experience
 
 <details>
 <summary><b>🤖 ROS & Programming</b></summary>
@@ -205,36 +136,73 @@
 </tr>
 </table>
 
+</div>
+
 ---
 
 <div align="center">
 
-## 📊 GitHub Stats
+## 🏆 Honors and Awards
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kemjensak&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemjensak&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
+</div>
 
-## 🔥 Contribution Streak
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kemjensak&theme=tokyonight" alt="streak stats"/>
-</p>
-
-## 🎯 Profile Views
-
-![](https://komarev.com/ghpvc/?username=kemjensak&color=blueviolet&style=flat-square)
-
----
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/kemjensak">Jinseok Kim</a></i>
-</p>
-
-</div></div>
-
----
+<table align="center">
+<tr>
+<th>🏅 Award</th>
+<th>📅 Date</th>
+<th>🏛️ Organization</th>
+</tr>
+<tr>
+<td><b>🥇 Best Award</b><br>KDT Final Project</td>
+<td>Aug 22, 2025</td>
+<td>AddInEdu</td>
+</tr>
+<tr>
+<td><b>🎖️ President's Award</b><br>WCRC Autonomous Driving Division</td>
+<td>Aug 18, 2025</td>
+<td>Korea Robotics Education Contents Association</td>
+</tr>
+<tr>
+<td><b>🏆 Academic Award</b></td>
+<td>Nov 9, 2023</td>
+<td>The Korean Society of Automotive Safety</td>
+</tr>
+<tr>
+<td><b>🥈 Excellence Award</b><br>Hyundai Robotics Challenge 2022</td>
+<td>Nov 13, 2022</td>
+<td>Hyundai Motor / Hyundai NGV</td>
+</tr>
+<tr>
+<td><b>📝 Best Paper Award</b></td>
+<td>Apr 28, 2022</td>
+<td>The Korean Society of Mechanical Engineers (KSME)</td>
+</tr>
+<tr>
+<td><b>🥈 Soongsil Engineering Award (Silver Prize)</b></td>
+<td>Dec 15, 2021</td>
+<td>Soongsil University</td>
+</tr>
+<tr>
+<td><b>🥈 Excellence Award</b><br>Creative Autonomous Vehicle Technology Competition</td>
+<td>Oct 4, 2021</td>
+<td>The Korean Society of Automotive Safety</td>
+</tr>
+<tr>
+<td><b>🏅 Finalist</b><br>HANIUM ICT Competition</td>
+<td>Dec 4, 2020</td>
+<td>Federation of Korean Information Industries</td>
+</tr>
+<tr>
+<td><b>🥈 Hyeongnam Science Award (Silver Prize)</b></td>
+<td>Nov 18, 2020</td>
+<td>Soongsil University</td>
+</tr>
+<tr>
+<td><b>🏅 Encouragement Award</b><br>Capstone Design Competition</td>
+<td>Sep 16, 2020</td>
+<td>Soongsil University</td>
+</tr>
+</table>
 
 ---
 
@@ -275,17 +243,31 @@
 
 </details>
 
-# 📜 Honors and Awards
+---
 
-- **Best Award, KDT Final Project**, AddInEdu, *Aug 22, 2025*
-- **President’s Award, Korea Robotics Education Contents Association**, WCRC Autonomous Driving Division, *Aug 18, 2025*
-- **Academic Award**, The Korean Society of Automotive Safety, *Nov 9, 2023*
-- **Excellence Award, Hyundai Robotics Challenge 2022**, Hyundai Motor / Hyundai NGV, *Nov 13, 2022*
-- **Best Paper Award**, The Korean Society of Mechanical Engineers (KSME), *Apr 28, 2022*
-- **Soongsil Engineering Award (Silver Prize)**, Soongsil University, *Dec 15, 2021*
-- **Excellence Award, Creative Autonomous Vehicle Technology Competition**, The Korean Society of Automotive Safety, *Oct 4, 2021*
-- **Finalist**, HANIUM ICT Competition, Federation of Korean Information Industries, *Dec 4, 2020*
-- **Hyeongnam Science Award (Silver Prize)**, Soongsil University, *Nov 18, 2020*
-- **Encouragement Award, Capstone Design Competition**, Soongsil University, *Sep 16, 2020*
+<div align="center">
 
+## 📊 GitHub Stats
 
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kemjensak&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemjensak&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+## 🔥 Contribution Streak
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kemjensak&theme=tokyonight" alt="streak stats"/>
+</p>
+
+## 🎯 Profile Views
+
+![](https://komarev.com/ghpvc/?username=kemjensak&color=blueviolet&style=flat-square)
+
+---
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/kemjensak">Jinseok Kim</a></i>
+</p>
+
+</div>
