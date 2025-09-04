@@ -4,9 +4,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Robotics+Engineer;ROS+%26+C%2B%2B+%26+Python+Developer;Mechanical+Engineering+Background;Always+Learning+New+Things!" alt="Typing SVG" />
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jinseok.kim970@gmail.com)
-[![KakaoTalk](https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black)](https://open.kakao.com/o/shAzLlQh)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/k_jinus)
+[![Gmail](https://img.shields.io/badge/Gmail-jinseok.kim970@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![Discord](https://img.shields.io/badge/Discord-k__jinus-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%A7%84%EC%84%9D-%EA%B9%80-836655225/)
 
 </div>
