@@ -4,6 +4,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Robotics+Engineer;ROS+%26+C%2B%2B+%26+Python+Developer;Mechanical+Engineering+Background;Always+Learning+New+Things!" alt="Typing SVG" />
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jinseok.kim970@gmail.com)
+[![KakaoTalk](https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black)](https://open.kakao.com/o/shAzLlQh)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/k_jinus)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%A7%84%EC%84%9D-%EA%B9%80-836655225/)
 
 </div>
 
@@ -82,32 +86,6 @@
 
 </details>
 
----
-
-## 🚀 Comprehensive Robotics Experience
-
-<div align="center">
-
-### 📡 Sensors & Hardware
-**LiDAR** • **AHRS (IMU)** • **GNSS** • **Cameras** • **Encoders**
-
-### 🔗 Communication Protocols
-**PWM** • **UART** • **I²C** • **CAN-FD** • **Ethernet** • **MQTT**
-
-### 🤖 Mobile Platforms
-**Ackermann** • **Differential Drive** • **Skid Steer** • **Mecanum**
-
-### 🦾 Manipulators & Grippers
-**Universal Robots** • **Robotiq** • **OnRobot**
-
-### 💻 Embedded Systems
-**Arduino** • **Raspberry Pi** • **ESP** • **NVIDIA Jetson** (Nano, NX, AGX)
-
-### 🌐 Simulation Environments
-**Gazebo** • **Isaac Sim** • **CARLA**
-
-</div>
-
 > **End-to-end experience in robot design, simulation, fabrication, ROS package development, and deployment**
 
 ---
@@ -134,111 +112,6 @@
 </table>
 
 </div>
-
----
-
-<div align="center">
-
-## 🏆 Honors and Awards
-
-</div>
-
-<table align="center">
-<tr>
-<th>🏅 Award</th>
-<th>📅 Date</th>
-<th>🏛️ Organization</th>
-</tr>
-<tr>
-<td><b>🥇 Best Award</b><br>KDT Final Project</td>
-<td>Aug 22, 2025</td>
-<td>AddInEdu</td>
-</tr>
-<tr>
-<td><b>🎖️ President's Award</b><br>WCRC Autonomous Driving Division</td>
-<td>Aug 18, 2025</td>
-<td>Korea Robotics Education Contents Association</td>
-</tr>
-<tr>
-<td><b>🏆 Academic Award</b></td>
-<td>Nov 9, 2023</td>
-<td>The Korean Society of Automotive Safety</td>
-</tr>
-<tr>
-<td><b>🥈 Excellence Award</b><br>Hyundai Robotics Challenge 2022</td>
-<td>Nov 13, 2022</td>
-<td>Hyundai Motor / Hyundai NGV</td>
-</tr>
-<tr>
-<td><b>📝 Best Paper Award</b></td>
-<td>Apr 28, 2022</td>
-<td>The Korean Society of Mechanical Engineers (KSME)</td>
-</tr>
-<tr>
-<td><b>🥈 Soongsil Engineering Award (Silver Prize)</b></td>
-<td>Dec 15, 2021</td>
-<td>Soongsil University</td>
-</tr>
-<tr>
-<td><b>🥈 Excellence Award</b><br>Creative Autonomous Vehicle Technology Competition</td>
-<td>Oct 4, 2021</td>
-<td>The Korean Society of Automotive Safety</td>
-</tr>
-<tr>
-<td><b>🏅 Finalist</b><br>HANIUM ICT Competition</td>
-<td>Dec 4, 2020</td>
-<td>Federation of Korean Information Industries</td>
-</tr>
-<tr>
-<td><b>🥈 Hyeongnam Science Award (Silver Prize)</b></td>
-<td>Nov 18, 2020</td>
-<td>Soongsil University</td>
-</tr>
-<tr>
-<td><b>🏅 Encouragement Award</b><br>Capstone Design Competition</td>
-<td>Sep 16, 2020</td>
-<td>Soongsil University</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 🎓 Certificates & Licenses
-
-</div>
-
-<details open>
-<summary><b>🤖 Robotics & Engineering</b></summary>
-<br>
-
-- **🤖 Certified Robot Software Developer** - *HRDKorea, Nov 29, 2023*
-- **⚙️ Certified Robot Mechanism Developer** - *HRDKorea (Written exam passed)*
-- **🔧 Certified Robot Hardware Developer** - *HRDKorea (Written exam passed)*
-- **🏗️ Information Processing Craftsman** - *HRDKorea, Jun 11, 2018*
-
-</details>
-
-<details open>
-<summary><b>💻 Software & Design</b></summary>
-<br>
-
-- **🎨 Autodesk Certified User (Fusion 360)** - *Autodesk, Jan 8, 2020*
-- **📊 Microsoft Office Specialist (Excel, Word, PowerPoint 2016 Expert)** - *Microsoft, Oct-Jan 2018-2019*
-- **💾 Computer Utilization Ability (Level 2)** - *KCCI, Aug 3, 2018*
-- **📝 Word Processor Specialist** - *KCCI, Jul 6, 2018*
-
-</details>
-
-<details open>
-<summary><b>🔧 Technical & Safety</b></summary>
-<br>
-
-- **🖥️ PC Maintenance Specialist (Level 2)** - *KICA, Dec 11, 2018*
-- **🚜 Forklift Operator License** - *HRDKorea, Nov 30, 2018*
-
-</details>
 
 ---
 
