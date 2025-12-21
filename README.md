@@ -8,7 +8,7 @@
 
 📧 **Email:** `jinseok.kim970@gmail.com`  
 🎮 **Discord:** `k_jinus`  
-💼 **LinkedIn:** [Jinseok Kim](https://www.linkedin.com/in/%EC%A7%84%EC%84%9D-%EA%B9%80-836655225/)
+💼 **LinkedIn:** [Jinseok Kim](https://www.linkedin.com/in/jinseok07/)
 
 </div>
 
