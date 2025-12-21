@@ -12,15 +12,6 @@
 
 </div>
 
----
-
-# 📚 Education
-
-### Master of Science in Mechanical Engineering
-*Mar 2022 - Aug 2024, Soongsil Univ., Seoul, Korea*
-
-### Bachelor of Science in Mechanical Engineering
-*Mar 2016 - Feb 2022, Soongsil Univ., Seoul, Korea*
 
 ---
 
@@ -52,65 +43,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-
-</div>
-
----
-
-## 🔍 Detailed Experience
-
-<details open>
-<summary><b>🤖 ROS & Programming</b></summary>
-<br>
-
-- Developed most projects and code using **ROS/Ubuntu with Python and C++**
-- Experienced in utilizing various **ROS frameworks, packages, and functionalities** related to robotics
-- Proficient in **ROS (Kinetic–Noetic) and ROS 2 (Foxy–Jazzy)**
-
-</details>
-
-<details open>
-<summary><b>🎨 CAD & Design</b></summary>
-<br>
-
-- Skilled in **SolidWorks, Fusion 360, ANSYS, and AutoCAD** with experience in mechanical design
-- Extensive experience in **3D printing and prototyping** using **Bambu Lab, MakerBot, Cubicon, and Flashforge** printers
-
-</details>
-
-<details open>
-<summary><b>🖥️ Infrastructure & DevOps</b></summary>
-<br>
-
-- Over **12 years of experience with NAS**, including file backup and version control system operation
-- Built and managed **virtualized server environments** using **ESXi, Proxmox, and Docker**, with additional experience in **VPS platforms such as AWS**
-
-</details>
-
-> **End-to-end experience in robot design, simulation, fabrication, ROS package development, and deployment**
-
----
-
-<div align="center">
-
-## 🌏 Languages
-
-<table>
-<tr>
-<td align="center">
-<img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/us.svg" width="30">
-<br><b>English</b>
-<br>• TOEIC Speaking: IM3 (2024)
-<br>• TOEIC: 865 (2023), 945 (2019)
-<br>• TEPS: 328 (2021)
-</td>
-<td align="center">
-<img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/kr.svg" width="30">
-<br><b>한국어</b>
-<br>• Native Speaker
-</td>
-</tr>
-</table>
 
 </div>
 
