@@ -2,7 +2,9 @@
   
 # 👋 Hello! I'm Jinseok Kim
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Robotics+Engineer;ROS+%26+C%2B%2B+%26+Python+Developer;Mechanical+Engineering+Background;Always+Learning+New+Things!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Robotics+Engineer;ROS+%26+C%2B%2B+%26+Python+Developer;Mechanical+Engineer" alt="Typing SVG" />
+
+🤖 **SW Developer for RBY1 Robot @ [Rainbow Robotics](https://www.rainbow-robotics.com/)**
 
 ### 📞 Contact Me
 
